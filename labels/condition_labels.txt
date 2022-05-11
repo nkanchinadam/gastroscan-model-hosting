@@ -1,6 +1,6 @@
-barretts
-esophagitis
-healthy
-hemorrhoids
-polyps
-ulcerative-colitis
+Barrett's Syndrome
+Esophagitis
+Healthy
+Hemorrhoids
+Polyps
+Ulcerative Colitis
